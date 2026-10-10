@@ -1,0 +1,16 @@
+# Oak & Linen
+
+> Oak & Linen is an independent interior design studio in Portland, Oregon, founded in 2016. It designs homes and small offices in Portland, Beaverton, Lake Oswego, Hillsboro and Vancouver WA.
+
+## Key facts
+- Services: full-home design (from $4,800), single-room refresh (from $1,400), styling and furnishing (from $950), design consultation ($180).
+- Free 20-minute consultation by WhatsApp, phone or web form. Replies within two working hours.
+- Address: 128 Maple Street, Suite 4, Portland, OR 97205
+- Phone / WhatsApp: +1 503 555 0142
+- Hours: Mon–Fri 9am–6pm, Sat 10am–2pm (Pacific Time)
+
+## Pages
+- [Services and pricing](https://www.oakandlinen.example/services)
+- [About](https://www.oakandlinen.example/about)
+- [Reviews](https://www.oakandlinen.example/reviews)
+- [Book a consultation](https://www.oakandlinen.example/contact)
