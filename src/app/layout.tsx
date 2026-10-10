@@ -24,6 +24,14 @@ export const metadata: Metadata = {
     description: site.description,
     url: "/",
     locale: "en_US",
+    images: [
+      {
+        url: "/main.jpg", // Matches the file inside your public folder
+        width: 1200,
+        height: 630,
+        alt: site.name,
+      },
+    ],
   },
   twitter: { card: "summary_large_image", title: `${site.name} | ${site.tagline}`, description: site.description },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1 } },
